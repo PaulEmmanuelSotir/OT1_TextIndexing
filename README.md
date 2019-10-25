@@ -1,8 +1,10 @@
-# OT1 - Text Indexing and querying with deep learning (WIP)
+# OT1 - Text Indexing and querying engine (WIP)
 _INSA Lyon - 5IF OT1 Text indexing and querying project 2019/2020_  
-_By ???, Paul-Emmanuel SOTIR and ???_
+_By Tianjian Ye, Paul-Emmanuel SOTIR, Quentin Guye and Nathan Mesnard_
 
 _This project is under [open source MIT license](./LICENSE.txt) except if another folder contains a LICENSE.txt file, then all files and subfolders of the directory are under their specific license_
+
+**<span style="color:orange">Please, be aware this is a Work In Progress (WIP).</span>**
 
 ## Description
 
