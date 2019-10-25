@@ -27,4 +27,6 @@ See references listed in [./References/](./References/) subdirectory.
 
 ### Additionnal references
 - https://paperswithcode.com/area/natural-language-processing
+- https://lucene.apache.org/core/3_0_3/fileformats.html#Inverted%20Indexing
+- http://grantjenks.com/docs/sortedcontainers
 - 
