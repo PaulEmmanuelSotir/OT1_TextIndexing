@@ -1,16 +1,16 @@
 # Text Indexing - Documentation
 This README is the entry point of "5IF OT1 Text indexing and querying project (2019/2020)" project documentation.  
 
-See also [upper directory's README](../README.md) for a quick start installation/usage/description and our backround algorithm's paper ["eg. (To determine; WIP) "](./Doc/Paper/paper.pdf) (or http://arxiv.com/...WIP...).
+See also [upper directory's README](../README.md) for a quick start installation/usage/description.
 
 ## Project Structure
 - Project main directory
-    - Algorithm
+    - IndexationEngine
     - Doc | *Main documentation directory*
         - Paper | *Paper's subdirectory describing our approch of superesolution and denoising using GANs*
         - Distill
         - References
-    - WebApp | *Simple web page frontend for basic usage of our algorithm*
+    - WebApp | *Simple web page frontend for basic usage of our indexation engine*
 
 ## Datasets
 

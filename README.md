@@ -6,14 +6,12 @@ _This project is under [open source MIT license](./LICENSE.txt) except if anothe
 
 ## Description
 
-
 ## Quick installation and usage
 ### Requierments
 
 ### Installation
 
 ### Usage
-
 
 ## Documentation
 See ["./Doc/README.md"](./Doc/README.md) sub-folder for more detailled documentation and rerferences of this project.  
@@ -31,4 +29,5 @@ See an example of our app deployed here: http://TODO.com/text_query_example_app.
 - 
 
 ## Acknowledgments
-This project have been created during our course "OT1 Text indexing and querying" by [_Pierre-Edouard Portier_](https://liris.cnrs.fr/page-membre/pierre-edouard-portier), a great professor at [INSA (National Institute of Applied Sciences) Lyon, FRANCE](https://www.insa-lyon.fr/).
+This project have been created during "OT1 Text indexing and querying" course;  
+Course taught by [_Pierre-Edouard Portier_](https://liris.cnrs.fr/page-membre/pierre-edouard-portier), a great professor at [INSA (National Institute of Applied Sciences) Lyon, FRANCE](https://www.insa-lyon.fr/).
